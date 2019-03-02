@@ -1,0 +1,4 @@
+exclude:
+- /META-INF/.*
+- /bin/.*
+- /lib/.*
