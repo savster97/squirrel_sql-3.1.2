@@ -1,4 +1,6 @@
 exclude:
-- /META-INF/.*
-- /bin/.*
-- /lib/.*
+  - /META-INF/.*
+  - /bin/.*
+  - /lib/.*
+include:
+  - /src/.*
